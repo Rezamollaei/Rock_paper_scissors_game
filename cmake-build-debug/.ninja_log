@@ -1,0 +1,20 @@
+# ninja log v5
+1	37	1731505930601509040	build.ninja	8dda2abc456403f4
+0	450	1731505931061506524	CMakeFiles/untitled2.dir/Rock_Paper_Scissors_game.cpp.o	9b1318b3fc0a5d27
+452	552	1731505931161505977	untitled2	5decc61a3d08963d
+1	496	1731506161050246674	CMakeFiles/untitled2.dir/Rock_Paper_Scissors_game.cpp.o	9b1318b3fc0a5d27
+496	639	1731506161190245906	untitled2	5decc61a3d08963d
+1	397	1731506611521105267	CMakeFiles/untitled2.dir/Rock_Paper_Scissors_game.cpp.o	9b1318b3fc0a5d27
+397	506	1731506611627771347	untitled2	5decc61a3d08963d
+1	371	1731509047257686886	CMakeFiles/untitled2.dir/Rock_Paper_Scissors_game.cpp.o	9b1318b3fc0a5d27
+371	493	1731509047377686224	untitled2	5decc61a3d08963d
+1	395	1731509494328556331	CMakeFiles/untitled2.dir/Rock_Paper_Scissors_game.cpp.o	9b1318b3fc0a5d27
+395	495	1731509494425222464	untitled2	5decc61a3d08963d
+1	421	1731509578908090195	CMakeFiles/untitled2.dir/Rock_Paper_Scissors_game.cpp.o	9b1318b3fc0a5d27
+421	532	1731509579018089589	untitled2	5decc61a3d08963d
+1	388	1731509723157295207	CMakeFiles/untitled2.dir/Rock_Paper_Scissors_game.cpp.o	9b1318b3fc0a5d27
+388	500	1731509723267294601	untitled2	5decc61a3d08963d
+1	414	1731509935652790764	CMakeFiles/untitled2.dir/Rock_Paper_Scissors_game.cpp.o	9b1318b3fc0a5d27
+414	520	1731509935756123527	untitled2	5decc61a3d08963d
+1	431	1731510100645214786	CMakeFiles/untitled2.dir/Rock_Paper_Scissors_game.cpp.o	9b1318b3fc0a5d27
+431	539	1731510100751880865	untitled2	5decc61a3d08963d
